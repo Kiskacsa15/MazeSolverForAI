@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|c:\\users\\andris\\source\\repos\\bskeymbeadandoai\\bskeymbeadandoai\\breadth-first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\breadth-first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\randomsolverwithrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\randomsolverwithrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\backtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\backtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|c:\\users\\andris\\source\\repos\\bskeymbeadandoai\\bskeymbeadandoai\\depthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\depthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\solvers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\solvers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\bskeymbeadandoai\\randomsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20F8AD7E-F7BB-48A5-9F68-CC3D7952B248}|BSKEYMbeadandoAI\\BSKEYMbeadandoAI.csproj|solutionrelative:bskeymbeadandoai\\randomsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Breadth-First.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Breadth-First.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\Breadth-First.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Breadth-First.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\Breadth-First.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:06:48.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepthFirst.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\DepthFirst.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\DepthFirst.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\DepthFirst.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\DepthFirst.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:30:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackTrack.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\BackTrack.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\BackTrack.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\BackTrack.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\BackTrack.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:31:10.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Cell.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\Cell.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Cell.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\Cell.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:38:24.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Solvers.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Solvers.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\Solvers.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Solvers.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\Solvers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:42:17.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Direction.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\Direction.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Direction.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:32:28.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RandomSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\RandomSolver.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\RandomSolver.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\RandomSolver.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\RandomSolver.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:52:37.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomSolverWithRestart.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\RandomSolverWithRestart.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\RandomSolverWithRestart.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\RandomSolverWithRestart.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\RandomSolverWithRestart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:25:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Form1.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Form1.cs [Design]",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:20:21.237Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Form1.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Form1.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\Form1.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAlwBsBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:01:28.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\State.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\State.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\State.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\State.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA6wFYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:30:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Node.cs",
+              "RelativeDocumentMoniker": "BSKEYMbeadandoAI\\Node.cs",
+              "ToolTip": "C:\\Users\\Andris\\source\\repos\\BSKEYMbeadandoAI\\BSKEYMbeadandoAI\\Node.cs",
+              "RelativeToolTip": "BSKEYMbeadandoAI\\Node.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:38:28.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

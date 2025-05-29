@@ -1,0 +1,11 @@
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\bin\Debug\BSKEYMbeadandoAI.exe.config
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\bin\Debug\BSKEYMbeadandoAI.exe
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\bin\Debug\BSKEYMbeadandoAI.pdb
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.csproj.AssemblyReference.cache
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.Form1.resources
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.Properties.Resources.resources
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.csproj.GenerateResource.cache
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.csproj.CoreCompileInputs.cache
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.exe
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.pdb
+C:\Users\Andris\source\repos\BSKEYMbeadandoAI\BSKEYMbeadandoAI\obj\Debug\BSKEYMbeadandoAI.exe.config
